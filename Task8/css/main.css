@@ -1,0 +1,25 @@
+div{
+    line-height: 6rem;
+    
+}
+h1{
+    font-weight: 900!important;
+    font-size: 5rem;
+    
+}
+button{
+    padding-block: 1.5rem;
+    padding-inline: 5rem;
+    transition-duration: 0s;
+    line-height: normal;
+    border-style:outset;
+    color: white;
+    cursor: default;
+    background-color: green;
+}
+button:hover{
+    background-color: blue!important;
+}
+p{
+    font-weight: 500;
+}
